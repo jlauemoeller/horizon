@@ -1,0 +1,339 @@
+{
+  "title": "Why Don't We Have Space Elevators Yet?",
+  "subject": "Why don't we have space elevators yet",
+  "expert": "Carl",
+  "lines": [
+    {
+      "speaker": "Linda",
+      "text": "Welcome to Horizon, the podcast where we take a genuinely complicated subject and pull it apart until it actually makes sense. I'm Linda."
+    },
+    {
+      "speaker": "Carl",
+      "text": "And I'm Carl. Good to be here."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Today we're doing an idea that has been, um, permanently just-out-of-reach for about a hundred and thirty years: the space elevator. A cable from the ground to orbit, and you ride up it. Carl, before we get into why we don't have one, sell me on why anybody wants one."
+    },
+    {
+      "speaker": "Carl",
+      "text": "Okay. So the seductive part is the physics of energy. If you ask, purely as a bookkeeping question, how much energy does it take to move one kilogram from the equator up to geostationary orbit, the answer is about forty-eight megajoules. That's roughly thirteen kilowatt-hours. At normal industrial electricity prices, that is something like one or two dollars' worth of electricity per kilogram."
+    },
+    {
+      "speaker": "Linda",
+      "text": "One or two dollars. And right now?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "Right now the cheapest rides to geostationary transfer orbit are in the thousands of dollars per kilogram. So there's this enormous gap between the thermodynamic floor and the price on the invoice, and the reason is that a rocket has to carry its own propellant, accelerate that propellant, and then usually throw away hardware. An elevator, in principle, is just an electric motor climbing a rope. You plug it into the grid."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Right, so it's the difference between airlifting groceries and, I don't know, building a road."
+    },
+    {
+      "speaker": "Carl",
+      "text": "That's exactly the framing that the advocates use, and we'll come back to it, because it turns out to be the crux of the modern argument."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Then let's do the mechanics. And I want you to assume I know nothing, because, honestly, when people say the cable hangs from a satellite, my brain says: hangs from what?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "[laughs] Good, because that's the right confusion to have. Picture the equator. Now picture a point thirty-five thousand seven hundred and eighty-six kilometers straight up. That's geostationary altitude. An object there takes exactly one sidereal day to go around, which means it sits over the same spot on the ground forever. It's not hovering; it's orbiting at the same angular rate as the Earth turns."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Okay, so the top of my cable is in that orbit."
+    },
+    {
+      "speaker": "Carl",
+      "text": "Now the key insight. Anything below that altitude, tied to the cable, is being forced to go around slower than a free orbit would require, so gravity wins and it wants to fall. Anything above that altitude is being forced to go around faster than a free orbit, so the outward pull wins and it wants to fly away. So you build the cable long enough past geostationary, or you hang a counterweight out there, and the outward pull of the outer section holds up the weight of the inner section. The whole structure is in tension. Nothing is resting on anything."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Can you say that a different way? I get the words, but I don't feel it."
+    },
+    {
+      "speaker": "Carl",
+      "text": "Sure. Um. Think of an athlete doing a hammer throw. They spin, and the hammer on the wire pulls outward, hard. Now imagine the athlete is the Earth, spinning once a day, and instead of a short wire you have a rope a hundred thousand kilometers long with a weight on the end. That weight is trying to fly outward, and it keeps the rope taut all the way down to your hand. Your hand is the anchor on the equator. The rope is not falling on you because the other end is being flung outward. That's it. That's the space elevator."
+    },
+    {
+      "speaker": "Linda",
+      "text": "A hundred thousand kilometers. That's a quarter of the way to the Moon."
+    },
+    {
+      "speaker": "Carl",
+      "text": "About a quarter, yes. And notice the cable can't be the same thickness all the way. The middle of it, near geostationary, is carrying the weight of everything below it, so a sensible design tapers: fat in the middle, thin at both ends. That taper ratio is where the whole dream lives or dies."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Before the materials, can we do the history? Because I read that the first version of this was a tower, not a cable. Konstantin Tsiolkovsky, and he'd just seen the Eiffel Tower."
+    },
+    {
+      "speaker": "Carl",
+      "text": "That's right, and it's a lovely detail. The Eiffel Tower goes up in 1889, and in 1895 Tsiolkovsky, the Russian schoolteacher who essentially founded astronautics, imagines extending that logic upward to a celestial castle at geostationary height. But his version is a compression structure, a tower standing on the ground, which is hopeless. No material can be squeezed like that. The tension idea, the rope, comes much later, in 1960, from a Leningrad engineer named Yuri Artsutanov, and, remarkably, he published it in the Sunday supplement of a youth newspaper, Komsomolskaya Pravda. It was essentially invisible to Western engineers for years."
+    },
+    {
+      "speaker": "Linda",
+      "text": "So it got reinvented?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "Twice, effectively. In 1966 a group at the Scripps Institution of Oceanography, led by John Isaacs, published a short paper in Science about elongating a satellite into what they called a true sky-hook. Oceanographers, interestingly, because they think about very long cables under tension all the time. And then the piece of work that really sets the modern template is 1975, Jerome Pearson, then at the United States Air Force flight dynamics laboratory, in Acta Astronautica. He works out the tapering, the counterweight, the dynamics, and he calls it the orbital tower."
+    },
+    {
+      "speaker": "Linda",
+      "text": "And this is the point where Arthur C. Clarke picks it up."
+    },
+    {
+      "speaker": "Carl",
+      "text": "1979, The Fountains of Paradise, which was directly informed by Pearson's paper. And the same year, Charles Sheffield independently published a novel with the same device. Clarke is also the source of the line that the space elevator will be built, and I'm quoting the version that gets repeated, \"about fifty years after everyone stops laughing.\""
+    },
+    {
+      "speaker": "Linda",
+      "text": "[laughs] Which implies we're still in the laughing phase."
+    },
+    {
+      "speaker": "Carl",
+      "text": "Well, the laughing got interrupted in 1991, when Sumio Iijima at NEC in Japan published his characterization of carbon nanotubes. Suddenly there was a candidate material with theoretical strengths in the hundred-gigapascal range, and the whole field caught fire. NASA's Marshall Space Flight Center did a study in 2000, and then between 2000 and 2003 Bradley Edwards, funded by NASA's Institute for Advanced Concepts with something like half a million dollars, produced the design everybody still argues about."
+    },
+    {
+      "speaker": "Linda",
+      "text": "What did that design look like?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "Not a cable, actually. A ribbon: about a meter wide, a few microns thick, a hundred thousand kilometers long, anchored to a mobile platform in the equatorial Pacific. You launch a seed ribbon of roughly twenty tonnes, then you send climbers up it that glue additional ribbon on as they go, each one adding about one and a half percent, and after two hundred and seven climbers, about two and a third years, you have something that can lift a twenty-tonne payload. The climbers are powered by lasers from the ground hitting photovoltaic panels. Edwards's cost figure was around six billion dollars for the first one."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Six billion. That's, what, a fraction of the International Space Station."
+    },
+    {
+      "speaker": "Carl",
+      "text": "Which is why the 2003 report could say, and this is close to a direct quote, that the elevator could be built in the near future with acceptable risk and less funding than some current space programs. Everything hinged on one assumption: that we would learn to make the tether."
+    },
+    {
+      "speaker": "Linda",
+      "text": "So let's go there. Because here's my contribution, and I want you to tell me if I've been fooled. I read that in 2018 a group made carbon nanotube bundles with tensile strength above eighty gigapascals. That's in the range you need, isn't it? So isn't the material problem solved?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "That's a real result, and it's a beautiful one. Yunxiang Bai, Fei Wei and colleagues at Tsinghua University, in Nature Nanotechnology in 2018. Bundles of defect-free ultralong nanotubes, over eighty gigapascals. But look at the scale word in the abstract: centimetres. They were centimetres long."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Ah."
+    },
+    {
+      "speaker": "Carl",
+      "text": "And their clever trick tells you exactly what the problem is. In a bundle, the individual tubes aren't equally tight, so when you pull, one tube takes the load, snaps, then the next, then the next. It unzips. That's called the Daniels effect. Their contribution was a procedure to equalize the initial strains so the tubes actually share the load. Meanwhile, the longest single carbon nanotube anyone has publicly grown is about half a meter, and the industrially available nanotube fibers you can buy today are down at a few gigapascals, which per unit weight is good but nowhere near what we need."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Put a number on nowhere near. How far off are we?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "Here's the cleanest way to think about it, and it's an image I'd like listeners to hold. Forget gigapascals. Ask instead: if I hang a rope from the ceiling and keep adding length, how long can it get before it snaps under its own weight, here at one gee? That's called the breaking length. High-strength steel wire: about twenty-five kilometers. Kevlar: about two hundred and fifty kilometers. The best commercial polymer fibers, Zylon and so on: maybe three hundred and eighty. Elite carbon fiber, around four hundred."
+    },
+    {
+      "speaker": "Linda",
+      "text": "And the elevator needs?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "About four thousand nine hundred kilometers."
+    },
+    {
+      "speaker": "Linda",
+      "text": "[laughs] Oh. So we're not talking about a twenty percent improvement."
+    },
+    {
+      "speaker": "Carl",
+      "text": "We're talking about a factor of twelve or thirteen over the best fiber humanity can currently manufacture in bulk. And, crucially, the penalty is exponential, not linear. The taper ratio, the ratio of the cable's cross-section at geostationary to its cross-section at the ends, goes as e to the power of that shortfall. If your material exactly hits the target, the taper ratio is about two point seven, which is a perfectly buildable object. Build it out of Zylon and the taper ratio is a few hundred thousand. Build it out of Kevlar and it's a few hundred million. Out of steel, the number has eighty-odd digits."
+    },
+    {
+      "speaker": "Linda",
+      "text": "So the cable would have to be, effectively, the mass of a mountain range."
+    },
+    {
+      "speaker": "Carl",
+      "text": "More than that. It goes past absurd very fast. That exponential is the single most important fact in this whole subject, and it's why the field cannot compromise on materials. There's no version where you just build a slightly heavier cable and accept it."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Okay, but suppose we get nanotubes to eighty gigapascals at industrial scale. Are we done?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "And here's where the most interesting scientific fight in the field happens. Around 2006 and 2007, Nicola Pugno, then at Politecnico di Torino, published in Journal of Physics: Condensed Matter and then in Acta Materialia, and his argument is essentially statistical. He said, look, you're designing a hundred-thousand-kilometer megacable using the strength of a single hundred-nanometer-long, perfect nanotube. But thermodynamics guarantees defects. At the temperatures where you grow these things, missing atoms and rearranged bonds are unavoidable, and in a structure that large you have astronomically many chances to have the worst-case flaw somewhere. A single missing atom can cut the strength of a nanotube by something like twenty or thirty percent."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Weakest link."
+    },
+    {
+      "speaker": "Carl",
+      "text": "Weakest link, at scale. His conclusion was that a flaw-tolerant cable would need a taper ratio maybe two orders of magnitude larger than the designs assumed, and he wrote, quite bluntly, that an elevator built as designed at that time would certainly break."
+    },
+    {
+      "speaker": "Linda",
+      "text": "How do the proponents answer that?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "Two ways. First, architecture: don't build a monolithic rope, build a hierarchical, braided, redundant ribbon where a local failure is contained, the way a suspension bridge cable is thousands of wires rather than one bar. Second, empirically, that 2018 Tsinghua work is a partial rebuttal, because it shows that when you engineer load-sharing properly, a bundle can retain most of the strength of its members rather than unzipping. Pugno's challenge hasn't been refuted so much as it's been converted into a design specification. And, um, I'd say the honest state of play is that nobody has demonstrated a kilometer of anything with the required specific strength. Not a kilometer. Not a hundred meters."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Is carbon nanotube still the plan, though? Because you hear a lot about graphene now."
+    },
+    {
+      "speaker": "Carl",
+      "text": "That's the biggest change in the last few years, and it's a real shift. The International Space Elevator Consortium, which is the main organizing body for this community, has quietly moved its bet. There's a good review paper, Space elevator tether materials, by Adrian Nixon and John Knapman with colleagues, published in Acta Astronautica in 2023, that lays out the candidates: nanotubes, and then two-dimensional materials, mainly graphene and hexagonal boron nitride. Their point is that thirty years of effort has not produced continuous nanotube material at length, whereas graphene is made by chemical vapour deposition in continuous rolls."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Rolls, like a printing press."
+    },
+    {
+      "speaker": "Carl",
+      "text": "Roll-to-roll, exactly, on copper foil. The concept they favour now is what they call graphene super laminate: many layers of single-crystal graphene stacked into a sheet. Pristine graphene is around a hundred and thirty gigapascals, so on the breaking-length scale it clears the bar. The catch is that what industry can make in kilometer lengths today is polycrystalline graphene, many small crystals stitched together, and the stitching is where it fails. In the Consortium's own newsletters through 2025 they're working through a checklist that tells you how immature this is: how the edges of graphene affect strength, whether layers can be spot-welded together, whether atomic oxygen in the upper atmosphere corrodes it."
+    },
+    {
+      "speaker": "Linda",
+      "text": "That is a sobering checklist for something with a target date."
+    },
+    {
+      "speaker": "Carl",
+      "text": "[laughs] It is. And I should say, the most publicized target date belongs to a construction company. In 2012, Obayashi Corporation in Japan announced a plan for an elevator by 2050: a ninety-six-thousand-kilometer nanotube cable, a floating port four hundred meters across, a twelve-and-a-half-thousand-tonne counterweight, hundred-tonne climbers. And their own research and development people have been admirably candid in interviews that the cable is the thing they cannot yet make."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Let's say a genie hands us the cable tomorrow. What else breaks?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "Right, and this is the part that gets under-discussed, because the material problem is so dominant that people assume it's the only one. Number one: everything else in orbit. A hundred-thousand-kilometer tether occupies every altitude at once, and essentially every satellite and every piece of debris in low Earth orbit crosses the equatorial plane twice per orbit. So the elevator is a stationary obstacle in a shooting gallery."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Can't you just move it out of the way?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "For tracked objects, that's the plan: the anchor platform is a ship, you tug the cable and let the wave propagate to make it duck. The Consortium has published debris studies, in 2010 and again in 2020, mapping collision probabilities in the two-hundred to two-thousand kilometer band. But you cannot dodge what you cannot see, and the untracked millimeter-scale population is enormous. There's a nice, slightly grim calculation in their June 2025 newsletter: experiments at Rice University fired micro-bullets at multilayer graphene, and it absorbed roughly nought point nine megajoules per kilogram at impact speeds of six hundred to nine hundred meters per second. Orbital debris arrives at seven to fifteen kilometers per second."
+    },
+    {
+      "speaker": "Linda",
+      "text": "And energy goes as velocity squared."
+    },
+    {
+      "speaker": "Carl",
+      "text": "So you're a hundred times over budget, per unit of impacting mass. Which means the tether can't be a cable at all, it has to be a wide, thin, redundant ribbon that tolerates being punched full of holes."
+    },
+    {
+      "speaker": "Linda",
+      "text": "What else?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "Radiation. A climber at two hundred kilometers per hour spends the better part of a week inside the Van Allen belts. There's a paper in Acta Astronautica from around 2007 by Anders Jorgensen and colleagues that makes the comparison starkly: the Apollo crews crossed the belts in under an hour and took about one rem. A climber moves roughly two hundred times slower. Unshielded, you're into doses that are frankly lethal, so any human-rated cabin needs serious mass in shielding, which eats your payload."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Anything from the rotation itself?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "Yes, and it's elegant. As a climber ascends, it has to gain eastward speed, because the higher you go, the faster you're being swung around. Where does that momentum come from? From the cable. So the climber drags the cable westward the whole way up. It's the Coriolis effect. Run the numbers on a hundred-tonne climber at fifty-odd meters per second and you get a sideways force of several hundred newtons, applied continuously for a week, tilting a structure with resonances measured in hours and days. Traffic management on this thing is a genuine unsolved dynamics problem; you probably need descending traffic to balance the ascending traffic."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Now, the thing everybody asks. What if it snaps? Because in Kim Stanley Robinson's Red Mars, the Martian elevator gets cut and the cable wraps around the entire planet, twice, and it's devastating."
+    },
+    {
+      "speaker": "Carl",
+      "text": "Great example, and it's the standard mental image. Reality is more nuanced. There's a study in the Journal of Guidance, Control, and Dynamics from 2013, modelling a rupture at geostationary altitude, and what it finds is that the lower portion mostly comes apart in the atmosphere. Remember, this is a micron-thick ribbon with an enormous area-to-mass ratio, so most of it flutters down like ticker tape. But, and this is the important but, the simulation shows some segments do reach the surface with significant speed, and the debris footprint runs along the equator. Meanwhile the section above the break has more outward momentum than it needs, so it departs."
+    },
+    {
+      "speaker": "Linda",
+      "text": "So not planet-scale devastation, but not nothing."
+    },
+    {
+      "speaker": "Carl",
+      "text": "Not nothing. And you've also just built a single structure that every satellite operator and every government has an interest in, sitting in international waters, which is a political and security problem quite separate from the physics."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Okay, Carl, here's my last challenge, and I think it's the modern one. Reusable rockets happened. If Starship works anything like it's advertised, why would anyone bother? The whole case was cost per kilogram, and rockets are eating that case."
+    },
+    {
+      "speaker": "Carl",
+      "text": "That is the sharpest objection in the field right now, and the interesting thing is that the advocates have conceded it and changed the argument. Stephen Cohen, a physics professor at Vanier College in Montreal who has worked on elevator mechanics for two decades, wrote a piece for Scientific American in 2022 arguing the technology could arrive within two or three decades, and he's since made the economic case in a rather different register. His line, which I like, is that \"cost per kilogram is the language of rockets.\""
+    },
+    {
+      "speaker": "Linda",
+      "text": "Meaning what, exactly?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "Meaning don't judge an elevator as a cheaper vehicle. Judge it as permanent infrastructure, like a port, a canal, or a railway. Its value isn't a lower fare, it's continuous, high-volume, weather-independent, non-explosive access, on the order of thousands of tonnes a year, which is the enabling condition for things like orbital solar power stations and large-scale lunar logistics. An electric climber doesn't need a launch window."
+    },
+    {
+      "speaker": "Linda",
+      "text": "And the counter-counter-argument?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "Financing. This was laid out well in a recent American Enterprise Institute piece on how you'd actually fund one. The capital requirement plausibly exceeds the International Space Station's roughly hundred and fifty billion dollars; the payback is decades out, which conventional discounting punishes brutally; and most of the benefits are spillovers that accrue to people who never invested. That's the textbook definition of something markets under-provide. So the honest answer to why we don't have one may be as much about public finance and multinational cooperation as about carbon chemistry."
+    },
+    {
+      "speaker": "Linda",
+      "text": "Is there a smaller version that gets built first? Something that isn't hostage to a material we can't make?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "Yes, and this is the most encouraging thread. In 2019 Zephyr Penoyre and Emily Sandford, then at Cambridge and Columbia, posted a paper on what they call the Spaceline: a cable anchored not on Earth but on the Moon, running through the Earth-Moon Lagrange point and dangling down to just inside geostationary altitude. Because you're fighting the Moon's weak gravity rather than Earth's, the required strength collapses, and they argue you could build it with existing commercial fibers, at a total cable mass of a few tens of tonnes. You'd still rocket up to the bottom end, but from there you climb rather than burn."
+    },
+    {
+      "speaker": "Linda",
+      "text": "So the elevator arrives at the Moon before it arrives here."
+    },
+    {
+      "speaker": "Carl",
+      "text": "Quite possibly, and that idea has a lineage going back to Pearson in 1979. Alongside that you've got rotating skyhooks, partial tethers in orbit that pick up a suborbital vehicle and fling it, which are also within current materials. Meanwhile the Earth elevator community is doing very small, very real experiments, like Shizuoka University's STARS-Me mission in 2018, which sent two linked cubesats with a tiny climber crawling along a fourteen-meter tether. That's the actual technology readiness level of climbing in space: fourteen meters."
+    },
+    {
+      "speaker": "Linda",
+      "text": "[laughs] Fourteen meters out of a hundred thousand kilometers. So let me try to summarize, and correct me. The physics is sound and has been since 1960. The energy economics are astonishing on paper. But the structure demands a material with a breaking length of five thousand kilometers, we can make four hundred, and the penalty for falling short is exponential rather than linear."
+    },
+    {
+      "speaker": "Carl",
+      "text": "Correct. And to that I'd add three things. Second, even the leading material community has switched horses within the last few years, from carbon nanotubes to stacked graphene, which tells you the first bet did not pay off. Third, the non-material problems, debris, radiation, dynamics, failure modes, are serious and comparatively under-researched, because everyone has been waiting on the cable. And fourth, the economic rationale has had to be rewritten in the era of reusable rockets, from cheaper freight to permanent infrastructure."
+    },
+    {
+      "speaker": "Linda",
+      "text": "So is the right attitude here scepticism or patience?"
+    },
+    {
+      "speaker": "Carl",
+      "text": "[exhales] Both, I think. This isn't like a perpetual motion machine, where the idea is dead on arrival. It's a project gated on one materials science breakthrough that is not forbidden by any law of nature but has resisted three decades of very well-funded effort. The people working on it are, in the main, careful and quantitative, and they'll tell you the same thing. Clarke's fifty-year joke keeps being funny precisely because the clock restarts every time we discover a new wonder material."
+    },
+    {
+      "speaker": "Linda",
+      "text": "That's a good place to land. Thank you, Carl."
+    },
+    {
+      "speaker": "Carl",
+      "text": "My pleasure."
+    },
+    {
+      "speaker": "Linda",
+      "text": "That's it for this episode of Horizon. If you want to go deeper, the 2023 Acta Astronautica review of tether materials is a genuinely readable starting point, and the International Space Elevator Consortium publishes its own technical newsletters. Thanks for listening, and we'll see you next time."
+    }
+  ]
+}

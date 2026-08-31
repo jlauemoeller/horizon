@@ -1,0 +1,145 @@
+# Horizon
+
+## Episode: "Building a Starship With Today's Technology"
+
+### Subject: Can we built a generation starship with current technology?
+
+### Hosts: Linda (expert) & Carl (clarifying questions)
+
+---
+
+**CARL:** Welcome to Horizon, the show where we take one complicated thing and slowly turn it around until you can see how it works. I'm Carl.
+
+**LINDA:** And I'm Linda.
+
+**CARL:** Today: could we build a generation starship with the technology we have right now? No warp drives. A ship where the people who board it die on board, and their great-great-grandchildren arrive.
+
+**LINDA:** And there's a reason to ask now, because in 2025 the question got a concrete answer. The Initiative for Interstellar Studies, a British non-profit, ran the Project Hyperion Design Competition. The brief was explicit: design a crewed generation ship for a roughly 250-year journey to the planet Proxima Centauri b, using current or near-future technology. Hundreds of entries. Winners published in August 2025.
+
+**CARL:** So somebody actually did the homework.
+
+**LINDA:** Architects, engineers, anthropologists, psychologists. The winner is called Chrysalis, from an Italian team led by the architect Giacomo Infelise with the astrophysicist Guido Sbrogio, an environmental engineer, an economist and a psychologist. It's worth walking through, because it shows where the real walls are. And they're not where most people think.
+
+**CARL:** Before the ship, can we do the distance? I don't think I can actually feel how far another star is.
+
+**LINDA:** Here's a picture. Voyager One, launched in 1977, is the fastest-receding thing we've ever made, leaving the Sun at about 17 kilometers per second. Aim that at Proxima Centauri, four and a quarter light years away, and it arrives in roughly 75,000 years. Longer than the time since the peak of the last ice age.
+
+**CARL:** But hang on. I read that the Parker Solar Probe is the fastest object ever built, something like 190 kilometers per second. Doesn't that change things?
+
+**LINDA:** It does and it doesn't, and that confusion is worth unpicking. Parker is fast because it has fallen deep into the Sun's gravity well, like a skateboarder at the bottom of a half-pipe. That speed is borrowed, and the Sun takes it back on the way out. What you need is speed you still have after climbing out of the solar system. Still, take Parker as an optimistic ceiling for today's technology, and you get a cruise speed near 200 kilometers per second and a trip to Proxima of about 6,300 years.
+
+**CARL:** Six thousand years. That's all of recorded history.
+
+**LINDA:** Which is why every serious design needs a different engine. There are two credible families. One is nuclear pulse propulsion: Project Orion, at General Atomics from 1958 to 1965, with Freeman Dyson and Ted Taylor involved. You detonate small nuclear charges behind a massive pusher plate. It works on paper, it died politically around the Partial Test Ban Treaty of 1963, and it has never flown.
+
+**LINDA:** The other is fusion. The classic study is Project Daedalus, by the British Interplanetary Society between 1973 and 1978: a 54,000 tonne vehicle burning deuterium and helium-3 at about 12 percent of light speed. Chrysalis uses that idea's modern descendant, a Direct Fusion Drive, researched at the Princeton Plasma Physics Laboratory. It targets one percent of light speed, so a voyage of about four centuries.
+
+**CARL:** And how close is fusion really? I keep seeing headlines saying it's been achieved.
+
+**LINDA:** [sighs] Careful here. In December 2022 the National Ignition Facility in California achieved ignition: more energy out of the fuel capsule than the laser energy delivered into it. By April 2025, 8.6 megajoules out from 2.08 in. A real milestone. But the facility pulls hundreds of megajoules off the grid to fire those lasers, and fires about once a day. On the magnetic side, the European tokamak JET made 69 megajoules in its final campaign in 2023, consuming far more than it produced. ITER, in France, aims at first plasma around 2034.
+
+**CARL:** So, lab physics, not a power plant. And a rocket has to be lighter than a power plant.
+
+**LINDA:** Lighter, running for years, dumping waste heat into vacuum. It is not current technology, and not even near-term. Then there's fuel. The world supply of helium-3 is measured in kilograms per year, mostly from tritium decaying in weapons stockpiles. This ship needs millions of tonnes, which is why every serious study assumes you mine the Moon or scoop Jupiter first.
+
+**CARL:** Give me a feel for the total energy. A billion-tonne ship at one percent of light speed sounds absurd, but I can't picture it.
+
+**LINDA:** Chrysalis is 58 kilometers long, 6 across, with a reported mass of about 2.4 billion tonnes, roughly fifteen months of global steel production. Its kinetic energy at one percent of light speed is about ten to the power of twenty-five joules. Humanity's total annual energy consumption is around six hundred exajoules. So the cruise energy is some seventeen thousand years of world energy use, and you pay it twice, because you have to stop.
+
+**CARL:** [exhales] Seventeen thousand years of everything.
+
+**LINDA:** Which is why Andreas Hein and colleagues, in their world ship papers, conclude the economics only close somewhere beyond the year 2300, and only for a civilization already industrialized across the solar system. Hein has led Project Hyperion since 2011. That's not a hostile critic; that's the man running the project.
+
+**CARL:** All right, assume a benevolent alien hands us the engine. Is everything else solved?
+
+**LINDA:** No, and this is the interesting part, because the rest is harder. Gravity we can do. Chrysalis is a set of nested counter-rotating cylinders; the outer layers give about nine tenths of Earth gravity. That lineage goes back to Gerard O'Neill at Princeton in the 1970s.
+
+**CARL:** Spin the drum, and the floor pushes you outward. Or, um, inward. I always get that backwards.
+
+**LINDA:** [laughs] Inward, toward the axis, and your body reads that as weight pressing outward. Like a fairground ride. The constraint is spin rate: too fast, and turning your head makes the world lurch, because your inner ear senses a rotation you didn't perform. Classic guidelines say stay at or below two revolutions per minute, which for full Earth gravity means a radius of about 224 meters. Chrysalis has a three-kilometer radius and turns once every two minutes. Rotation isn't the hard part.
+
+**CARL:** Then what is?
+
+**LINDA:** Ecology. Closing the loop on air, water, food and waste for four hundred years with no deliveries. And here we have real data, and it's humbling.
+
+**CARL:** Biosphere 2, right? I read that failed because the crew fell out and somebody opened a door.
+
+**LINDA:** That's the version that stuck, and it's wrong in an instructive way. Eight people sealed themselves into a three-acre glass structure in Arizona in September 1991. The dramatic failure was chemical. Over sixteen months the oxygen inside fell from the normal 20.9 percent to about 14.4 percent, the equivalent of living at four thousand meters altitude. People were getting ill.
+
+**CARL:** Why did it fall?
+
+**LINDA:** Two reasons, and the second is the lesson. They'd loaded the soils with compost and peat to grow food. Soil microbes respired it, eating oxygen faster than plants could reverse it. But the carbon dioxide didn't add up. It had gone missing. A 1994 paper in Eos, the journal of the American Geophysical Union, led by Jeffrey Severinghaus, showed it had reacted with the building's exposed concrete and been locked away as calcium carbonate.
+
+**CARL:** So the building ate the air.
+
+**LINDA:** [excited] The building ate the air. And that sentence belongs on the wall of every starship design office. In a closed system nothing is inert. The walls are part of your metabolism. Over centuries, even glacially slow chemistry becomes dominant.
+
+**CARL:** Has anyone done better?
+
+**LINDA:** The Soviet BIOS-3 facility in Krasnoyarsk, from 1972, ran crews of up to three for six months and essentially closed the air and water loops with algae and wheat under electric light. Food, about half closed. And the International Space Station now recovers about 98 percent of its water, since the brine processor was added. Extraordinary achievement.
+
+**CARL:** And the food?
+
+**LINDA:** One hundred percent shipped from Earth. Every calorie. Meanwhile the European Space Agency has worked since 1989 on MELiSSA, a compartmentalized artificial ecosystem, with a pilot plant in Barcelona where the crew, so far, are rats. After three decades, nobody on Earth has run a closed system that feeds humans indefinitely. Not for a year. So: we can't currently build the kitchen, let alone the ship.
+
+**CARL:** What about maintenance? A four-hundred-year-old machine terrifies me. My car struggles at fifteen years.
+
+**LINDA:** Hein and his co-authors put a number on that which I find the most sobering figure in the whole literature. A vessel of this scale and lifetime needs a maintenance system capable of detecting, replacing and repairing several components every second, continuously, for centuries.
+
+**CARL:** Several components per second. Forever.
+
+**LINDA:** Forever, from the crew's point of view. Which means the ship isn't really a vehicle. It has to contain a miniature industrial civilization: mining, refining, chemistry, precision manufacturing, electronics, the ability to make the tools that make the tools. On Earth that supply chain involves millions of people. And nobody has ever demonstrated a closed material loop at any scale.
+
+**CARL:** Now the passengers, because here I do remember a number. I read you only need 98 people to found a colony at another star.
+
+**LINDA:** That number is real, and routinely over-read. It comes from Doctor Frédéric Marin, an astrophysicist at the Strasbourg Astronomical Observatory, and Doctor Camille Beluffi, a particle physicist, in the Journal of the British Interplanetary Society in 2018, using a Monte Carlo code called HERITAGE. They simulated a 6,300-year voyage and found 98 carefully chosen, unrelated settlers can avoid inbreeding collapse, under strict rules about who has children and when.
+
+**CARL:** And what does it not tell us?
+
+**LINDA:** It's purely genetics and demography. It assumes life support works and reproduction is managed. It says nothing about whether 98 people can maintain a starship, or a culture. Other researchers in the same journal let fertility and family size fluctuate as they really would, and got a critical crew of 1,400 to 6,800. And the anthropologist Cameron Smith at Portland State University argued in Acta Astronautica in 2014 that once you add social and skills redundancy, you need something on the order of ten thousand people.
+
+**CARL:** That's two orders of magnitude. How do I hold that as a listener?
+
+**LINDA:** Like this. The small numbers answer: how few humans avoid genetic disaster. The large numbers answer: how few humans can carry a technological society. The second one decides whether anyone arrives. Chrysalis settles on about 1,500 people, with a maximum near 2,400.
+
+**CARL:** And how do you prepare people psychologically?
+
+**LINDA:** The Chrysalis answer is startling. Three or four generations of candidates live in sealed biospheres in Antarctica, seventy to eighty years of selection and rehearsal, building an almost tribal cooperative identity before launch. Governance on board mixes human institutions with artificial intelligence. Paul Gilster, who writes the interstellar site Centauri Dreams, said the sociology, in his words, "almost seem totalitarian".
+
+**CARL:** And generation four never consented to any of it.
+
+**LINDA:** That's the deepest objection, and it isn't an engineering one. You create people whose universe and reproductive options were fixed centuries before their birth. Some ethicists say that's no different from being born into any society. Others say the closure is the difference: on Earth you can, in principle, leave.
+
+**CARL:** I have to bring up Kim Stanley Robinson, because his novel Aurora, from 2015, is essentially an argument that this can never work.
+
+**LINDA:** And a well-informed one. His case is ecological, not mechanical. A closed habitat is an island, and island biology is unforgiving: gene pools drift, pathogens and pests evolve far faster than their hosts, salts accumulate in the wrong places, elements get locked into forms the system can't liberate. His ship suffers what he calls zoo devolution, a slow degradation of its organisms, humans included. And Earth's biosphere is something like a trillion times larger than any ship. That buffer is what makes stability possible.
+
+**CARL:** How do the engineers answer him?
+
+**LINDA:** Two ways. First, scale can be partly replaced by active control: monitoring, chemical processing, sterilization, seed and gene banks, gene editing his fictional ship does without. Second, they concede the point and change the timeline. You build the competence first, as habitats inside the solar system, over centuries. The starship becomes the last step, not the first.
+
+**LINDA:** There's also a lovely counterintuitive result called the wait calculation, from Andrew Kennedy in the Journal of the British Interplanetary Society in 2006. If travel speed keeps improving, leaving now can be the slowest way to arrive. A ship launched today at one percent of light speed is overtaken by one launched two centuries later. There's an optimal departure date, and it's a long way off.
+
+**CARL:** So the answer today is a clean no?
+
+**LINDA:** No, and not for the reason people expect. Propulsion is a wall we can at least see over. Rotation is solved. Radiation shielding, using the ship's own mass and water, is solved on paper. What we genuinely cannot do, at any scale, with any budget, is two things: run a closed ecosystem that feeds humans for generations, and build a self-repairing industrial base that keeps a complex machine alive for four centuries with no supply chain.
+
+**CARL:** And those two aren't really space problems.
+
+**LINDA:** [curious] That's what I keep coming back to. They're sustainability problems. Perfect recycling, closed-loop agriculture, materials that last centuries, repairable machinery, governance across generations. The same list as our planetary predicament, with the walls closer. Which is probably why Hyperion asked architects and anthropologists, not only rocket engineers.
+
+**CARL:** Let me summarize, and tell me where I'm wrong. Distance: six thousand years at today's speeds, four hundred with a fusion drive we don't have. Energy: seventeen thousand years of world consumption. Gravity: fine. Ecology: unsolved, and subtle, because in Arizona the concrete ate the oxygen. Maintenance: several components a second for four centuries. Crew: somewhere between 98 and ten thousand, depending which question you ask.
+
+**LINDA:** I wouldn't change a word, except to add that the 2025 Hyperion results aren't a failure. They're a specification. We now have a detailed picture of what would have to be true, and every item on it, closed agriculture, total recycling, century-scale reliability, is worth building whether or not anyone ever leaves.
+
+**CARL:** So Chrysalis is less a blueprint than a mirror.
+
+**LINDA:** [laughs] That's better than anything I've said in the last half hour.
+
+**CARL:** I'll take it. That's Horizon for this week. If you want the trail: the Project Hyperion results from the Initiative for Interstellar Studies, the world ship papers by Andreas Hein and colleagues, and the HERITAGE work by Marin and Beluffi.
+
+**LINDA:** And read Aurora. Argue with it. That's what it's for.
+
+**CARL:** Thanks for listening. See you on the next Horizon.
+
+**LINDA:** Goodbye.
